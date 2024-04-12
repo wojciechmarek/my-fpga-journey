@@ -14,4 +14,4 @@ q <= (a AND b) OR (NOT a);
 
 Synthesis (extra NOT gates are due to the buttons' pull-up resistors and LED's connection to the chip):
 
-![image1-syn](./images/circuit1-rtl.png)
+![image1-syn](./algebra-images/images/circuit1-rtl.png)

@@ -12,15 +12,15 @@ Most of the code is developed to run on [Tang Nano 1K](https://wiki.sipeed.com/h
 - **Register**: 864
 - **Block SRAM (bits)**: 72K
 - **User Flash (bits)**: 64K
-- **Button 2 user programmable buttons**
-- **LED Onboard 1 programmable RGB LED**
+- **Buttons - 2 user programmable buttons**
+- **LED Onboard - 1 programmable RGB LED**
 - **Core Voltage (LV)**: 1.2V
 - **BankVoltage**: The default 3.3 V
 
 
 ### Board and pinout
 
-![TN1K](./Tang%20Nano%201K.png)
+![TN1K](./images/Tang_Nano_1K.png)
 
 ## Development software
 
