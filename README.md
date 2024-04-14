@@ -25,3 +25,9 @@ Most of the code is developed to run on [Tang Nano 1K](https://wiki.sipeed.com/h
 ## Development software
 
 The Tang Nano 1K comes with free (education) version of it's native IDE - [GOWIN](https://www.gowinsemi.com/en/). It supports both Verilog and VHDL.
+
+## Sources
+
+- [In Polish: Wprowadzenie do opisu sprzętu w układach FPGA z wykorzystaniem języka VHDL](https://sii.pl/blog/wprowadzenie-do-opisu-sprzetu-w-ukladach-fpga-z-wykorzystaniem-jezyka-vhdl/)
+- [Tutorial 9: S-R Latch in VHDL](https://startingelectronics.org/software/VHDL-CPLD-course/tut9-SR-latch/)
+- [VHDL Tutorials and Examples](https://nandland.com/learn-vhdl/)
