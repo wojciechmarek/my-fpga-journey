@@ -8,14 +8,20 @@ Most of the code is developed to run on [Tang Nano 1K](https://wiki.sipeed.com/h
 
 ### Hardware overview
 
+- **FPGA Chip**: GW1NZ series (first generation of the LittleBee family)
 - **LUT4**: 1152
 - **Register**: 864
 - **Block SRAM (bits)**: 72K
+- **Shadow SRAM (bits)**: 4K
 - **User Flash (bits)**: 64K
 - **Buttons - 2 user programmable buttons**
 - **LED Onboard - 1 programmable RGB LED**
 - **Core Voltage (LV)**: 1.2V
 - **BankVoltage**: The default 3.3 V
+- **Write cycles**: 10000
+- **IO ports amperage**: 4mA, 8mA, 16mA, 24mA
+- **IO ports features**: Independent bus keeper, pull-up / pull-down resistor and open drain output
+- **IO ports interfaces**: FPC - Flexible Printed Circuit
 
 
 ### Board and pinout
