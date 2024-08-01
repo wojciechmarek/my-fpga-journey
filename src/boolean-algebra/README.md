@@ -4,7 +4,7 @@
 
 The Truth Table and Schematic:
 
-![image1](../images/algebra-images/circuit1.png)
+![image1](../../assets/boolean-algebra-images/circuit1.png)
 
 VHDL Code:
 
@@ -14,4 +14,4 @@ q <= (a AND b) OR (NOT a);
 
 Synthesis (extra NOT gates are due to the buttons' pull-up resistors and LED's connection to the chip):
 
-![image1-syn](../images/algebra-images/circuit1-rtl.png)
+![image1-syn](../../assets/boolean-algebra-images/circuit1-rtl.png)

@@ -23,8 +23,8 @@ The RGB LED is a classical common-anode (common +) RGB LED. Regarding that, the 
 
 ### Sample OR Gate design
 
-![or](../images/gates-images/or-design.png)
+![or](../../assets/logic-gates-images/or-design.png)
 
 ### Pins configuration
 
-![or](../images/gates-images/io-configuration.png)
+![config](../../assets/logic-gates-images/io-configuration.png)

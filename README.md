@@ -2,6 +2,15 @@
 
 This repository is a loose set of all my tries to play with the main FPGA programming languages - VHDL and Verilog.
 
+## Table of Contents
+- [AND Gate in VHDL & Verilog](./src/and-gate-in-vhdl-verilog/README.md)
+- [Basic blocks](./src/basic-blocks/README.md)
+- [Boolean algebra](./src/boolean-algebra/README.md)
+- [FPGA Hackaton 2024](./src/fpga-hackaton-2024/README.md)
+- [LED Blink](./src/led-blink/README.md)
+- [Logic gates](./src/logic-gates/README.md)
+- [Test Bench examples](./src/test-bench-examples/README.md)
+
 ## Development board
 
 Most of the code is developed to run on [Tang Nano 1K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-1K/Nano-1k.html).
@@ -26,7 +35,7 @@ Most of the code is developed to run on [Tang Nano 1K](https://wiki.sipeed.com/h
 
 ### Board and pinout
 
-![TN1K](./images/Tang_Nano_1K.png)
+![TN1K](./assets/board-images/Tang_Nano_1K.png)
 
 ## Development software
 
