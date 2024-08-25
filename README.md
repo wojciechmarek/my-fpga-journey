@@ -3,13 +3,13 @@
 This repository is a loose set of all my tries to play with the main FPGA programming languages - VHDL and Verilog.
 
 ## Table of Contents
-- [AND Gate in VHDL & Verilog](./src/and-gate-in-vhdl-verilog/README.md)
-- [Basic blocks](./src/basic-blocks/README.md)
-- [Boolean algebra](./src/boolean-algebra/README.md)
-- [FPGA Hackaton 2024](./src/fpga-hackaton-2024/README.md)
-- [LED Blink](./src/led-blink/README.md)
-- [Logic gates](./src/logic-gates/README.md)
-- [Test Bench examples](./src/test-bench-examples/README.md)
+- [AND Gate in VHDL & Verilog](./src/and-gate-in-vhdl-verilog/)
+- [Basic blocks](./src/basic-blocks/)
+- [Boolean algebra](./src/boolean-algebra/)
+- [FPGA Hackaton 2024](./src/fpga-hackaton-2024/)
+- [LED Blink](./src/led-blink/)
+- [Logic gates](./src/logic-gates/)
+- [Test Bench examples](./src/test-bench-examples/)
 
 ## Development board
 
